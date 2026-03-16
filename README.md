@@ -2,6 +2,10 @@
 
 Quantitative Stock Trading Open Source Projects Collection
 
+> 📊 精选 GitHub 高星量化交易项目 | 持续更新中
+> 
+> **最后更新**: 2026 年 3 月 (Tavily API 搜索验证)
+
 ---
 
 ## 📊 综合框架
@@ -138,6 +142,51 @@ Quantitative Stock Trading Open Source Projects Collection
   - 策略优化工具
   - 活跃社区
 - **适合**: 加密货币量化（可借鉴策略）
+
+---
+
+## 🇨🇳 A 股/可转债专项
+
+### 14. [bondTrader](https://github.com/freevolunteer/bondTrader)
+- **语言**: Python
+- **简介**: A 股可转债日内自动 T+0 交易
+- **特点**:
+  - 实时行情接口
+  - 策略触发 + 交易托管
+  - 专注可转债套利
+- **适合**: A 股可转债量化
+
+### 15. [tqsdk-python](https://github.com/shinnytech/tqsdk-python) ⭐ 4k+
+- **语言**: Python
+- **简介**: 天勤量化开发包（信易科技）
+- **特点**:
+  - 期货/期权/股票支持
+  - 历史数据 + 实时交易
+  - 简洁的 API 设计
+- **适合**: 国内期货量化
+
+### 16. [Hikyuu](https://github.com/fasiondog/hikyuu) ⭐ 3k+
+- **语言**: C++/Python
+- **简介**: 高性能量化交易研究框架
+- **特点**:
+  - C++ 核心 + Python 绑定
+  - 专注 A 股市场
+  - 高性能回测引擎
+- **适合**: 对性能要求高的量化研究
+
+---
+
+## 📖 中文学习资源
+
+### 17. [WhaleQuant](https://datawhalechina.github.io/whale-quant/)
+- **简介**: Datawhale 量化开源课程
+- **内容**: 量化金融知识 + Python 实战
+- **适合**: 系统化学习量化
+
+### 18. [je-suis-tm/quant-trading](https://github.com/je-suis-tm/quant-trading) ⭐ 2k+
+- **简介**: Python 量化交易策略合集
+- **内容**: VIX 计算器、模式识别、蒙特卡洛、期权策略等
+- **适合**: 策略灵感参考
 
 ---
 
