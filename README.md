@@ -190,6 +190,162 @@ Quantitative Stock Trading Open Source Projects Collection
 
 ---
 
+## 🤖 机器学习交易
+
+### 19. [ML_Trading_Bot](https://github.com/Mun-Min/ML_Trading_Bot)
+- **语言**: Python
+- **简介**: 机器学习交易机器人
+- **特点**:
+  - 结合金融 Python + 机器学习
+  - 算法交易实战
+  - 预测模型构建
+- **适合**: ML 量化入门
+
+### 20. [stock-prediction-deep-neural-learning](https://github.com/JordiCorbilla/stock-prediction-deep-neural-learning)
+- **语言**: Python
+- **简介**: 深度神经网络股票预测
+- **特点**:
+  - LSTM/GRU 等深度学习模型
+  - 股价趋势预测
+  - 完整的训练流程
+- **适合**: 深度学习预测研究
+
+### 21. [100-Days-Of-Hell-With-Python-Algotrading](https://github.com/thekuldeepsingh/100-Days-Of-Hell-With-Python-Algotrading)
+- **语言**: Python
+- **简介**: 100 天 Python 算法交易挑战
+- **特点**:
+  - 从入门到高级
+  - 传统交易 + 机器学习
+  - 完整项目实战
+- **适合**: 系统化学习算法交易
+
+---
+
+## 🔬 回测引擎
+
+### 22. [backtesting.py](https://github.com/kernc/backtesting.py) ⭐ 4k+
+- **语言**: Python
+- **简介**: 轻量级回测框架
+- **特点**:
+  - 快速简洁
+  - 交互式可视化
+  - 易于上手
+- **适合**: 快速策略验证
+
+### 23. [yabte](https://github.com/bsdz/yabte)
+- **语言**: Python
+- **简介**: Yet Another Backtesting Engine
+- **特点**:
+  - 基础统计（账面现金、MTM 等）
+  - 简洁的 API
+  - 轻量级设计
+- **适合**: 简单回测需求
+
+---
+
+## 💰 期权策略
+
+### 24. [Options-Trading-Strategy](https://github.com/zaid-24/Options-Trading-Strategy)
+- **语言**: Python
+- **简介**: 期权交易策略实现
+- **特点**:
+  - 蝴蝶策略、跨式策略等
+  - 高级期权策略
+  - 可视化分析
+- **适合**: 期权量化交易
+
+### 25. [OpStrat](https://github.com/atkrish0/OpStrat)
+- **语言**: Python
+- **简介**: 期权策略实现库
+- **特点**:
+  - 主流期权策略
+  - 实验性功能
+  - 策略回测
+- **适合**: 期权策略研究
+
+---
+
+## 📊 统计套利
+
+### 26. [pairs-trading-strategy](https://github.com/steeezyro/pairs-trading-strategy)
+- **语言**: Python
+- **简介**: 配对交易策略（统计套利）
+- **特点**:
+  - 滚动 Z-Score 模型
+  - 均值回归交易
+  - 实战案例（KO-PEP）
+- **适合**: 统计套利研究
+
+### 27. [statistical-arbitrage-strategy](https://github.com/georgia-pj/statistical-arbitrage-strategy)
+- **语言**: Python
+- **简介**: 统计套利/配对交易
+- **特点**:
+  - 历史股价数据分析
+  - 定价 inefficiencies 发现
+  - 完整的策略实现
+- **适合**: 量化套利策略
+
+### 28. [pair-trading](https://github.com/shimonanarang/pair-trading)
+- **语言**: Python
+- **简介**: 配对交易实战
+- **特点**:
+  - 金融统计分析
+  - 均值回归交易对
+  - 策略优化
+- **适合**: 配对交易学习
+
+---
+
+## 🛡️ 风险管理
+
+### 29. [Portfolio-Optimization](https://github.com/zhuodannychen/Portfolio-Optimization)
+- **语言**: Python
+- **简介**: 投资组合优化
+- **特点**:
+  - 现代投资组合理论（MPT）
+  - 全局最小方差组合
+  - 有效前沿分析
+- **适合**: 资产配置优化
+
+### 30. [stocks-portfolio-optimization](https://github.com/mariamwalaa/StocksPortfolioOptimization)
+- **语言**: Python
+- **简介**: 股票投资组合优化工具
+- **特点**:
+  - 历史股价数据
+  - 端到端优化流程
+  - 数据科学方法
+- **适合**: 组合管理
+
+### 31. [ICT-Risk-Management](https://github.com/LesterALeong/ICT-Risk-Management)
+- **语言**: Python
+- **简介**: ICT 风险管理
+- **特点**:
+  - 智能风险管理
+  - Python 实现
+  - 交易风险控制
+- **适合**: 风险管理系统
+
+---
+
+## 🎓 综合学习项目
+
+### 32. [Financial-Data-Analysis](https://github.com/dhanushkorada/Financial-Data-Analysis)
+- **语言**: Python
+- **简介**: 金融数据分析项目
+- **工具**: Pandas, NumPy, Matplotlib
+- **适合**: 数据分析入门
+
+### 33. [best-of-algorithmic-trading](https://github.com/merovinh/best-of-algorithmic-trading)
+- **语言**: Python
+- **简介**: 算法交易资源精选
+- **特点**:
+  - 机器学习 + AWS
+  - 数据驱动交易
+  - 完整项目集合
+- **适合**: 全面学习算法交易
+
+---
+
 ## 📚 学习资源
 
 ### 书籍
@@ -249,8 +405,12 @@ class MovingAverageStrategy(bt.Strategy):
 
 本仓库收集整理量化股票交易相关的开源项目，按类别分类，方便快速查找和学习。
 
-**更新日期**: 2025
-**维护者**: OpenClaw Agent
+**收录项目**: 33+ 个精选开源项目  
+**分类覆盖**: 综合框架、AI/ML、技术分析、数据获取、A 股专项、机器学习交易、回测引擎、期权策略、统计套利、风险管理、学习资源
+
+**更新日期**: 2026 年 3 月  
+**维护者**: OpenClaw Agent  
+**数据来源**: Tavily API 搜索验证
 
 ---
 
